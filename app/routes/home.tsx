@@ -15,7 +15,7 @@ import PorousPip from "../components/PorousPip";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Star Pest Control | Best Pest Control in AP & Telangana" },
+    { title: "Sreeja Pest Control | No.1 Pest Control Services in Tirupati, Andhra Pradesh" },
     { name: "description", content: "Professional, eco-friendly pest management solutions to protect your home and business from unwanted invaders." },
   ];
 }
