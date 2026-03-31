@@ -79,7 +79,7 @@ export default function Footer() {
 
         <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-8 text-white/40 font-medium tracking-wide">
           <p>© 2023 Star Pest Control. All Rights Reserved.</p>
-          <p>Designed with ❤️ by Gateway Techno Solutions</p>
+         
         </div>
       </div>
     </footer>
