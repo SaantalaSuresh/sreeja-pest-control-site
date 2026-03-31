@@ -33,7 +33,7 @@ export default function Header() {
           {/* CTA */}
           <div className="flex items-center gap-4">
             <a
-              href="tel:+918790851377"
+              href="tel:+919885271305"
               className="bg-brand-purple text-white px-5 py-2.5 rounded-xl font-bold flex items-center gap-2 hover:bg-brand-purple-dark transition-all transform hover:scale-105 shadow-lg"
             >
               <Phone size={18} />
