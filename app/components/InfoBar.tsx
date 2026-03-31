@@ -31,7 +31,7 @@ export default function InfoBar() {
             </div>
 
             <a 
-              href="tel:+918790851377"
+              href="tel:+919885271305"
               className="group bg-brand-orange text-white px-10 py-5 rounded-3xl font-black text-lg flex items-center gap-3 hover:translate-y-[-2px] transition-all hover:shadow-[0_10px_30px_rgba(241,110,55,0.4)] active:scale-95"
             >
               <Zap size={24} className="group-hover:animate-bounce" />
